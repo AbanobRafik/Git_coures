@@ -1,4 +1,4 @@
-Got it! I'll update the reference to reflect Elzero Web School. Here's the revised `README.md`:
+Great! I'll include the link to your demo in the `README.md` as well. Here's the updated draft:
 
 ---
 
@@ -94,11 +94,14 @@ As part of the Depi course, you'll have the opportunity to deploy your first pro
    - Redeploy your project whenever you make significant changes.
    - Ensure that the deployment is smooth and the project remains accessible.
 
+## Demo
+
+Check out the demo of my Git course project [here](https://abanobrafik.github.io/Git_coures/).
+
 ## Conclusion
 
 By the end of this course and project, you will have a solid understanding of Git and the deployment process. This will set a strong foundation for managing and deploying your future projects. Happy coding!
 
-this is my project demo watch it, very simple 
-https://abanobrafik.github.io/Git_coures/
 ---
+
 Feel free to adjust the content as needed to better fit your specific course and project details.
